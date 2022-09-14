@@ -1,7 +1,7 @@
 # Burkit Lymphoma TE Atlas
 TE quantification (Telescope) pipeline for Burkitt Lymphoma bulk RNA-seq samples
 
-**Project:** CGCI: Non-Hodgkin Lymphoma (SRA: SRP020237, BioProject: PRJNA172563)
+**Project:** Burkitt's Lymphoma (BLGSP)
 
 **To get DAG:** 
 
