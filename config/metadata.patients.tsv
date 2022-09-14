@@ -1,0 +1,127 @@
+cohort	patient_barcode	clinical_variant	ebv_status	ebv_genome_type	sex	age_at_diagnosis	anatomic_site_classification	tissue_source_site
+Discovery	BLGSP-71-06-00001	Endemic BL	EBV-positive	EBV type 2	Male	12	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00002	Endemic BL	EBV-negative	EBV-negative	Female	7	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00004	Endemic BL	EBV-negative	EBV-negative	Male	11	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00007	Endemic BL	EBV-positive	EBV type 1	Male	6	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00008	Endemic BL	EBV-positive	EBV type 1	Female	5	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00012	Endemic BL	EBV-positive	EBV type 1	Male	6	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00013	Endemic BL	EBV-positive	EBV type 1	Male	5	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00016	Endemic BL	EBV-positive	EBV type 1	Female	5	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00019	Endemic BL	EBV-positive	EBV type 1	Female	11	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00020	Endemic BL	EBV-positive	EBV type 1	Female	8	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00071	Endemic BL	EBV-positive	EBV type 2	Male	9	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00072	Endemic BL	EBV-positive	EBV type 2	Female	6	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00074	Endemic BL	EBV-positive	EBV type 2	Male	7	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00075	Endemic BL	EBV-positive	EBV type 1	Male	4	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00076	Endemic BL	EBV-positive	EBV type 1	Male	11	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00078	Endemic BL	EBV-positive	EBV type 1	Male	6	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00084	Endemic BL	EBV-positive	EBV type 2	Female	7	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00085	Endemic BL	EBV-positive	EBV type 1	Male	4	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00086	Endemic BL	EBV-positive	EBV type 1	Male	5	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00087	Endemic BL	EBV-positive	EBV type 1	Male	5	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00088	Endemic BL	EBV-positive	EBV type 1	Female	6	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00089	Endemic BL	EBV-positive	EBV type 2	Male	5	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00093	Endemic BL	EBV-positive	EBV type 1	Male	9	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00094	Endemic BL	EBV-positive	EBV type 1	Male	7	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00095	Endemic BL	EBV-negative	EBV-negative	Male	9	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00098	Endemic BL	EBV-positive	EBV type 1	Female	8	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00137	Endemic BL	EBV-negative	EBV-negative	Male	13	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00142	Endemic BL	EBV-positive	EBV type 1	Male	12	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00143	Endemic BL	EBV-positive	EBV type 1	Male	2	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00144	Endemic BL	EBV-positive	EBV type 1	Female	7	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00146	Endemic BL	EBV-positive	EBV type 1	Female	10	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00148	Endemic BL	EBV-positive	EBV type 2	Female	3	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00149	Endemic BL	EBV-positive	EBV type 1	Female	13	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00154	Endemic BL	EBV-positive	EBV type 1	Male	11	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00155	Endemic BL	EBV-positive	EBV type 2	Female	5	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00158	Endemic BL	EBV-positive	EBV type 1	Female	7	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00159	Endemic BL	EBV-positive	EBV type 1	Male	2	Intra-abdominal disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00160	Endemic BL	EBV-negative	EBV-negative	Male	19	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00162	Endemic BL	EBV-positive	EBV type 1	Male	5	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00164	Endemic BL	EBV-positive	EBV type 1	Male	7	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00165	Endemic BL	EBV-positive	EBV type 1	Male	8	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00169	Endemic BL	EBV-positive	EBV type 1	Male	8	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00171	Endemic BL	EBV-positive	EBV type 1	Male	5	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00172	Endemic BL	EBV-positive	EBV type 1	Male	7	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00174	Endemic BL	EBV-positive	EBV type 1	Male	4	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00178	Endemic BL	EBV-positive	EBV type 1	Male	10	Unknown	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00180	Endemic BL	EBV-positive	EBV type 1	Male	8	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00190	Endemic BL	EBV-positive	EBV type 1	Female	7	Unknown	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00251	Endemic BL	EBV-positive	EBV type 2	Female	8	Intra-abdominal disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00252	Endemic BL	EBV-positive	EBV type 1	Male	8	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00253	Endemic BL	EBV-positive	EBV type 1	Male	8	Intra-abdominal disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00255	Endemic BL	EBV-positive	EBV type 1	Male	15	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00277	Endemic BL	EBV-positive	EBV type 1	Female	11	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00280	Endemic BL	EBV-positive	EBV type 1	Male	6	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00281	Endemic BL	EBV-positive	EBV type 1	Male	8	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00283	Endemic BL	EBV-positive	EBV type 1	Male	6	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00285	Endemic BL	EBV-positive	EBV type 1	Female	8	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-06-00286	Endemic BL	EBV-positive	EBV type 1	Female	10	Head-only disease	Uganda Cancer Institute, Uganda
+Discovery	BLGSP-71-08-00022	Endemic BL	EBV-positive	EBV type 1	Male	6	Head-only disease	St Mary's Hospital, Uganda
+Discovery	BLGSP-71-08-00023	Endemic BL	EBV-positive	EBV type 2	Male	6	Head-only disease	St Mary's Hospital, Uganda
+Discovery	BLGSP-71-08-00033	Endemic BL	EBV-positive	EBV type 2	Male	8	Intra-abdominal disease	St Mary's Hospital, Uganda
+Discovery	BLGSP-71-08-00036	Endemic BL	EBV-positive	EBV type 2	Female	10	Head-only disease	St Mary's Hospital, Uganda
+Discovery	BLGSP-71-08-00038	Endemic BL	EBV-positive	EBV type 1	Male	8	Head-only disease	St Mary's Hospital, Uganda
+Discovery	BLGSP-71-08-00041	Endemic BL	EBV-positive	EBV type 1	Male	13	Intra-abdominal disease	St Mary's Hospital, Uganda
+Discovery	BLGSP-71-08-00050	Endemic BL	EBV-positive	EBV type 1	Female	10	Intra-abdominal disease	St Mary's Hospital, Uganda
+Discovery	BLGSP-71-08-00191	Endemic BL	EBV-negative	EBV-negative	Male	15	Intra-abdominal disease	St Mary's Hospital, Uganda
+Discovery	BLGSP-71-08-00194	Endemic BL	EBV-positive	EBV type 1	Female	7	Intra-abdominal disease	St Mary's Hospital, Uganda
+Discovery	BLGSP-71-08-00197	Endemic BL	EBV-positive	EBV type 1	Female	7	Head-only disease	St Mary's Hospital, Uganda
+Discovery	BLGSP-71-08-00199	Endemic BL	EBV-positive	EBV type 1	Male	14	Intra-abdominal disease	St Mary's Hospital, Uganda
+Discovery	BLGSP-71-08-00200	Endemic BL	EBV-positive	EBV type 1	Female	1	Head-only disease	St Mary's Hospital, Uganda
+Discovery	BLGSP-71-08-00204	Endemic BL	EBV-positive	EBV type 1	Male	8	Disseminated disease (no BM/CNS involvement)	St Mary's Hospital, Uganda
+Discovery	BLGSP-71-08-00205	Endemic BL	EBV-positive	EBV type 1	Male	4	Intra-abdominal disease	St Mary's Hospital, Uganda
+Discovery	BLGSP-71-08-00206	Endemic BL	EBV-positive	EBV type 1	Female	8	Intra-abdominal disease	St Mary's Hospital, Uganda
+Discovery	BLGSP-71-08-00210	Endemic BL	EBV-positive	EBV type 1	Male	5	Head-only disease	St Mary's Hospital, Uganda
+Discovery	BLGSP-71-19-00104	Sporadic BL	EBV-negative	EBV-negative	Female	14	Disseminated disease (no BM/CNS involvement)	St. Jude Children's Research Hospital, USA
+Discovery	BLGSP-71-19-00105	Sporadic BL	EBV-positive	EBV type 1	Male	9	Intra-abdominal disease	St. Jude Children's Research Hospital, USA
+Discovery	BLGSP-71-19-00110	Sporadic BL	EBV-negative	EBV-negative	Female	7	Intra-abdominal disease	St. Jude Children's Research Hospital, USA
+Discovery	BLGSP-71-19-00113	Sporadic BL	EBV-negative	EBV-negative	Male	3	Disseminated disease (no BM/CNS involvement)	St. Jude Children's Research Hospital, USA
+Discovery	BLGSP-71-19-00115	Sporadic BL	EBV-negative	EBV-negative	Female	9	Intra-abdominal disease	St. Jude Children's Research Hospital, USA
+Discovery	BLGSP-71-19-00116	Sporadic BL	EBV-negative	EBV-negative	Male	9	Intra-abdominal disease	St. Jude Children's Research Hospital, USA
+Discovery	BLGSP-71-19-00122	Sporadic BL	EBV-negative	EBV-negative	Female	4	Disseminated disease (BM/CNS involvement)	St. Jude Children's Research Hospital, USA
+Discovery	BLGSP-71-19-00123	Sporadic BL	EBV-positive	EBV type 1	Female	11	Disseminated disease (BM/CNS involvement)	St. Jude Children's Research Hospital, USA
+Discovery	BLGSP-71-19-00125	Sporadic BL	EBV-negative	EBV-negative	Male	16	Disseminated disease (BM/CNS involvement)	St. Jude Children's Research Hospital, USA
+Discovery	BLGSP-71-19-00126	Sporadic BL	EBV-negative	EBV-negative	Male	11	Disseminated disease (BM/CNS involvement)	St. Jude Children's Research Hospital, USA
+Discovery	BLGSP-71-19-00128	Sporadic BL	EBV-negative	EBV-negative	Male	15	Disseminated disease (BM/CNS involvement)	St. Jude Children's Research Hospital, USA
+Discovery	BLGSP-71-19-00129	Sporadic BL	EBV-negative	EBV-negative	Male	5	Disseminated disease (no BM/CNS involvement)	St. Jude Children's Research Hospital, USA
+Discovery	BLGSP-71-19-00133	Sporadic BL	EBV-negative	EBV-negative	Male	15	Disseminated disease (BM/CNS involvement)	St. Jude Children's Research Hospital, USA
+Discovery	BLGSP-71-22-00332	Sporadic BL	EBV-positive	EBV type 1	Female	8	Disseminated disease (BM/CNS involvement)	Children's Oncology Group, USA
+Discovery	BLGSP-71-22-00337	Sporadic BL	EBV-negative	EBV-negative	Male	7	Disseminated disease (BM/CNS involvement)	Children's Oncology Group, USA
+Discovery	BLGSP-71-22-00339	Sporadic BL	EBV-negative	EBV-negative	Male	8	Intra-abdominal disease	Children's Oncology Group, USA
+Discovery	BLGSP-71-22-00347	Sporadic BL	EBV-negative	EBV-negative	Male	7	Disseminated disease (no BM/CNS involvement)	Children's Oncology Group, USA
+Validation	BLGSP-71-06-00091	Endemic BL	EBV-positive	EBV type 1	Female	7	Head-only disease	Uganda Cancer Institute, Uganda
+Validation	BLGSP-71-06-00097	Endemic BL	EBV-positive	EBV type 1	Female	7	Intra-abdominal disease	Uganda Cancer Institute, Uganda
+Validation	BLGSP-71-06-00145	Endemic BL	EBV-positive	EBV type 1	Male	5	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Validation	BLGSP-71-06-00157	Endemic BL	EBV-positive	EBV type 1	Female	6	Unknown	Uganda Cancer Institute, Uganda
+Validation	BLGSP-71-06-00170	Endemic BL	EBV-positive	EBV type 1	Male	9	Head-only disease	Uganda Cancer Institute, Uganda
+Validation	BLGSP-71-06-00254	Endemic BL	EBV-positive	EBV type 1	Male	6	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Validation	BLGSP-71-06-00292	Endemic BL	EBV-positive	EBV type 1	Female	7	Intra-abdominal disease	Uganda Cancer Institute, Uganda
+Validation	BLGSP-71-06-00340	Endemic BL	EBV-positive	EBV type 1	Female	7	Unknown	Uganda Cancer Institute, Uganda
+Validation	BLGSP-71-06-00342	Endemic BL	EBV-positive	EBV type 1	Male	9	Disseminated disease (no BM/CNS involvement)	Uganda Cancer Institute, Uganda
+Validation	BLGSP-71-08-00021	Endemic BL	EBV-negative	EBV-negative	Male	7	Head-only disease	St Mary's Hospital, Uganda
+Validation	BLGSP-71-08-00027	Endemic BL	EBV-positive	EBV type 1	Female	6	Intra-abdominal disease	St Mary's Hospital, Uganda
+Validation	BLGSP-71-08-00028	Endemic BL	EBV-positive	EBV type 1	Male	7	Head-only disease	St Mary's Hospital, Uganda
+Validation	BLGSP-71-08-00029	Endemic BL	EBV-positive	EBV type 1	Male	11	Intra-abdominal disease	St Mary's Hospital, Uganda
+Validation	BLGSP-71-08-00030	Endemic BL	EBV-positive	EBV type 1	Female	7	Intra-abdominal disease	St Mary's Hospital, Uganda
+Validation	BLGSP-71-08-00034	Endemic BL	EBV-positive	EBV type 1	Female	9	Intra-abdominal disease	St Mary's Hospital, Uganda
+Validation	BLGSP-71-08-00039	Endemic BL	EBV-positive	EBV type 1	Female	7	Head-only disease	St Mary's Hospital, Uganda
+Validation	BLGSP-71-08-00040	Endemic BL	EBV-positive	EBV type 1	Male	7	Intra-abdominal disease	St Mary's Hospital, Uganda
+Validation	BLGSP-71-08-00043	Endemic BL	EBV-positive	EBV type 1	Female	5	Unknown	St Mary's Hospital, Uganda
+Validation	BLGSP-71-08-00048	Endemic BL	EBV-positive	EBV type 2	Male	3	Intra-abdominal disease	St Mary's Hospital, Uganda
+Validation	BLGSP-71-08-00053	Endemic BL	EBV-negative	EBV-negative	Male	9	Intra-abdominal disease	St Mary's Hospital, Uganda
+Validation	BLGSP-71-08-00056	Endemic BL	EBV-positive	EBV type 1	Male	4	Head-only disease	St Mary's Hospital, Uganda
+Validation	BLGSP-71-08-00057	Endemic BL	EBV-positive	EBV type 1	Male	6	Intra-abdominal disease	St Mary's Hospital, Uganda
+Validation	BLGSP-71-08-00059	Endemic BL	EBV-positive	EBV type 1	Male	7	Intra-abdominal disease	St Mary's Hospital, Uganda
+Validation	BLGSP-71-08-00508	Endemic BL	EBV-positive	EBV type 1	Male	NA	Unknown	St Mary's Hospital, Uganda
+Validation	BLGSP-71-19-00106	Sporadic BL	EBV-negative	EBV-negative	Male	8	Intra-abdominal disease	St. Jude Children's Research Hospital, USA
+Validation	BLGSP-71-19-00111	Sporadic BL	EBV-negative	EBV-negative	Male	5	Intra-abdominal disease	St. Jude Children's Research Hospital, USA
+Validation	BLGSP-71-19-00114	Sporadic BL	EBV-negative	EBV-negative	Male	3	Disseminated disease (no BM/CNS involvement)	St. Jude Children's Research Hospital, USA
+Validation	BLGSP-71-19-00118	Sporadic BL	EBV-negative	EBV-negative	Male	19	Disseminated disease (BM/CNS involvement)	St. Jude Children's Research Hospital, USA
+Validation	BLGSP-71-19-00130	Sporadic BL	EBV-positive	EBV type 1	Female	3	Intra-abdominal disease	St. Jude Children's Research Hospital, USA
+Tonsils	BLGSP-71-19-99988	NA	EBV-negative	EBV-negative	Male	2	NA	St. Jude Children's Research Hospital, USA
+Tonsils	BLGSP-71-19-99989	NA	EBV-negative	EBV-negative	Male	7	NA	St. Jude Children's Research Hospital, USA
+Tonsils	BLGSP-71-19-99996	NA	EBV-negative	EBV-negative	Female	11	NA	St. Jude Children's Research Hospital, USA
+Tonsils	BLGSP-71-19-99997	NA	EBV-negative	EBV-negative	Female	16	NA	St. Jude Children's Research Hospital, USA
+Tonsils	BLGSP-71-19-99998	NA	EBV-negative	EBV-negative	Female	6	NA	St. Jude Children's Research Hospital, USA
+Tonsils	BLGSP-71-19-99999	NA	EBV-negative	EBV-negative	Male	7	NA	St. Jude Children's Research Hospital, USA
