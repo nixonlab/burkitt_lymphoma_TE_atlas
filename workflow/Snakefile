@@ -1,0 +1,52 @@
+ #! /usr/bin/env python
+# -*- coding: utf-8 -*-
+
+# Setup
+
+from __future__ import (absolute_import, division,
+                        print_function, unicode_literals)
+from builtins import *
+
+import re
+import gzip
+from collections import defaultdict
+
+from snakemake.utils import min_version
+
+min_version("6.4.1")
+
+from snakemake.exceptions import RuleException
+
+
+# Set up sample wildcards
+wildcard_constraints:
+    case = 'BLGSP-71-[0-9A-Z]{2}-[0-9A-Z]{4}'
+
+configfile: "config/config.yaml"
+
+# Parse metadata
+METADATA = {}
+tsv = (l.strip('\n').split('\t') for l in open(config['sample_tsv'], 'r'))
+header = next(tsv)
+for row in tsv:
+    d = dict(zip(header, row))
+    METADATA[d['sample']] = d
+
+# Create filtered metadata file with pilot data
+
+PILOT = {sample: data for sample, data in METADATA.items() if data.get('pilot') == 'True'}
+
+# To run for pilot data, samid=PILOT.keys()
+# To run for all data, samid=METADATA.keys()
+
+rule all:
+    input:
+        expand("results/completed/{samid}_completed.txt", samid=PILOT.keys())
+
+# Rules to include
+include: "rules/gdc_download.smk"
+include: "rules/references.smk"
+include: "rules/bam_to_fastq.smk"
+include: "rules/star_index.smk"
+include: "rules/star_alignment.smk"
+include: "rules/telescope.smk"

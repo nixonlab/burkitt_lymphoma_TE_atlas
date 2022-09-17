@@ -1,3 +1,17 @@
+.github/
+.snakemake
+runs
+samples
+data
+resources
+databases
+refs
+benchmarks
+logs
+results
+SRR*
+config/prj_24438_D31828.ngc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
