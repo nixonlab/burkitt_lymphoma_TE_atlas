@@ -37,3 +37,37 @@ write.table(samples_metadata,
           row.names = FALSE, 
           quote = FALSE,
           sep = "\t")
+
+
+################################### PILOT SET  ###################################
+
+metadata_pilot <- metadata
+
+# table(metadata$ebv_status, metadata$clinical_variant)
+#                 Endemic BL Sporadic BL
+# EBV-negative          8          18
+# EBV-positive         90           4
+
+# Take all 22 sporadic BL samples
+metadata_pilot$pilot[metadata_pilot$clinical_variant == "Sporadic BL"] <- "True"
+
+# Take all 8 EBV-negative endemic BL samples 
+metadata_pilot$pilot[metadata_pilot$clinical_variant == "Endemic BL" & 
+                       metadata_pilot$ebv_status == "EBV-negative"] <- "True"
+
+# Take 25 random EBV-positive endemic BL samples
+
+metadata_pilot$pilot[metadata_pilot$clinical_variant == "Endemic BL" & 
+                       metadata_pilot$ebv_status == "EBV-positive"][1:26] <- "True"
+
+
+samples_metadata_pilot <- merge(samples, metadata_pilot, by.x = "case",
+                          by.y = "patient_barcode", all.x = TRUE)
+
+################################### SAVE FILE ###################################
+
+write.table(samples_metadata_pilot, 
+            "config/samples_metadata.tsv", 
+            row.names = FALSE, 
+            quote = FALSE,
+            sep = "\t")

@@ -17,11 +17,6 @@ min_version("6.4.1")
 
 from snakemake.exceptions import RuleException
 
-
-# Set up sample wildcards
-wildcard_constraints:
-    case = 'BLGSP-71-[0-9A-Z]{2}-[0-9A-Z]{4}'
-
 configfile: "config/config.yaml"
 
 # Parse metadata

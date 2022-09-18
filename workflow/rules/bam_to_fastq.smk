@@ -8,8 +8,8 @@ rule bam_to_fastq:
     output:
         R1 = temp('samples/{samid}_1.fastq'),
         R2 = temp('samples/{samid}_2.fastq')
-    input: "samples/{samid}/original.bam"
-    threads: workflow.cores
+    input: "samples/{samid}_original.bam"
+    threads: 8
     benchmark: "benchmarks/bam_to_fastq/{samid}_bam_to_fastq.tsv"
     params:
         tmp = config['local_tmp']
