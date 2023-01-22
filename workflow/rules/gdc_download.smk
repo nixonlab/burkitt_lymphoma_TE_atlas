@@ -12,8 +12,8 @@ rule gdc_download:
     output: temp("samples/{samid}_original.bam")
     benchmark: "benchmarks/gdc_download/{samid}_gdc_download.tsv"
     params:
-        uuid = lambda wc: PILOT[wc.samid]['file_id'],
-        md5sum = lambda wc: PILOT[wc.samid]['md5sum']
+        uuid = lambda wc: METADATA[wc.samid]['file_id'],
+        md5sum = lambda wc: METADATA[wc.samid]['md5sum']
     shell:
         '''
 mkdir -p $(dirname {output[0]})
@@ -27,4 +27,4 @@ chmod 660 {output[0]}
 
 rule download_complete:
     input:
-        expand("samples/{samid}_original.bam", samid = PILOT.keys())
+        expand("samples/{samid}_original.bam", samid = METADATA.keys())

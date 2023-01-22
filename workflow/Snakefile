@@ -36,7 +36,7 @@ PILOT = {sample: data for sample, data in METADATA.items() if data.get('pilot') 
 
 rule all:
     input:
-        expand("results/completed/{samid}_completed.txt", samid=PILOT.keys())
+        expand("results/completed/{samid}_completed.txt", samid=METADATA.keys())
 
 # Rules to include
 include: "rules/gdc_download.smk"
