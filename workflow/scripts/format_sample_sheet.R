@@ -14,6 +14,7 @@
 #################################### SETUP #####################################
 
 library(tidyr)
+setwd(dir = "/fsx/projects/burkitt_lymphoma_TE_atlas/")
 
 ################################### METADATA ###################################
 # Read in sample information
@@ -33,7 +34,7 @@ samples_metadata <- merge(samples, metadata, by.x = "case",
 ################################### SAVE FILE ###################################
 
 write.table(samples_metadata, 
-          "config/samples_metadata.tsv", 
+          "config/samples_metadata_full.tsv", 
           row.names = FALSE, 
           quote = FALSE,
           sep = "\t")
