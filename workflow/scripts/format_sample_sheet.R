@@ -31,6 +31,9 @@ colnames(samples) <- c("case_uuid", "project_id", "aliquot_id", "submitter_id",
 samples_metadata <- merge(samples, metadata, by.x = "case",
                           by.y = "patient_barcode", all.x = TRUE)
 
+samples_metadata <- samples_metadata[!grepl("chimeric", samples_metadata$file_name),]
+samples_metadata <- samples_metadata[!grepl("transcriptome", samples_metadata$file_name),]
+
 ################################### SAVE FILE ###################################
 
 write.table(samples_metadata, 
